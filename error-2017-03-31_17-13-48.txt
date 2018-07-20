@@ -1,0 +1,1 @@
+Could't move to directory /projects/ajt200/TAIR10/TAIR10_chr_all.fas/. Make sure the directory exists! Not a directory at /applications/bismark/bismark_v0.17.0/bismark_genome_preparation line 79.
